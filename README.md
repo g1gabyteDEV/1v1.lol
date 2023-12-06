@@ -1,2 +1,2 @@
-# 1v1lol-unblocked-game.github.io
-1v1lol Unblocked Game
+# 1v1-Lol
+The Game

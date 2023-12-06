@@ -1,6 +1,6 @@
 # 1v1lol Unblocked
 
-[![1v1lol Logo](link_to_logo_image)](https://1v1lol.me)
+[![1v1lol Logo](logo.png)](https://1v1lol.me)
 
 1v1lol Unblocked is an online multiplayer shooting game that offers a thrilling 1v1 experience. Challenge your friends or random players in fast-paced matches, and prove your skills in this action-packed game.
 
